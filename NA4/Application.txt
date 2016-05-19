@@ -1,0 +1,25 @@
+2016-05-18 15:28:06.479 Information Retrieving list of tenants from http://internal-sb1-asp-int-2123800832.us-west-2.elb.amazonaws.com/ 
+2016-05-18 15:28:08.460 Information Migration will process 10 tenants 
+2016-05-18 15:28:25.043 Information Migration beginning with 3 threads 
+2016-05-18 15:28:27.367 Information PSolveG3trial - Begin Migration 
+2016-05-18 15:28:27.367 Information Intangentg3trial - Begin Migration 
+2016-05-18 15:28:27.367 Information STRUCTURALSOLUTIONSg3trial - Begin Migration 
+2016-05-18 15:28:44.777 Information Intangentg3trial - Migration completed - 00:00:17.6432607 
+2016-05-18 15:28:44.792 Information Attricg3trial - Begin Migration 
+2016-05-18 15:28:45.790 Information STRUCTURALSOLUTIONSg3trial - Migration completed - 00:00:19.1876310 
+2016-05-18 15:28:45.790 Information sapphirg3trial - Begin Migration 
+2016-05-18 15:28:49.690 Information PSolveG3trial - Migration completed - 00:00:24.6163266 
+2016-05-18 15:28:49.706 Information Spartong3trial - Begin Migration 
+2016-05-18 15:29:20.157 Information sapphirg3trial - Migration completed - 00:00:34.3661391 
+2016-05-18 15:29:20.172 Information EccellaCorporationg3trial - Begin Migration 
+2016-05-18 15:29:47.347 Information EccellaCorporationg3trial - Migration completed - 00:00:27.1902771 
+2016-05-18 15:29:47.378 Information Pcsltdg3trial - Begin Migration 
+2016-05-18 15:29:50.763 Information Attricg3trial - Migration completed - 00:01:05.9867310 
+2016-05-18 15:29:50.779 Information Acutestg3trial - Begin Migration 
+2016-05-18 15:29:54.975 Information Spartong3trial - Migration completed - 00:01:05.2847445 
+2016-05-18 15:29:55.006 Information Unicong3trial - Begin Migration 
+2016-05-18 15:30:09.998 Information Pcsltdg3trial - Migration completed - 00:00:22.6507644 
+2016-05-18 15:30:10.980 Information Acutestg3trial - Migration completed - 00:00:20.2172112 
+2016-05-18 15:35:28.762 Information Unicong3trial - Migration completed - 00:05:33.7867809 
+2016-05-18 15:35:28.762 Information Migration complete 
+2016-05-18 15:35:28.778 Information 10 Tenants Successful 
